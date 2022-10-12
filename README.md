@@ -6,7 +6,11 @@
 Desenvolvido para aprendizado. Realizado efeito de texto animado. 11/10/22
 
 
+[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Texto-animado/)
+
+
 ## 💻 Tecnologias
+
 - HTML
 - CSS
 
